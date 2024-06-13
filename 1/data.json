@@ -1,0 +1,16 @@
+{
+    "Students": [
+      {"StudentCode": 1, "LastName": "Иванов", "FirstName": "Иван", "Patronymic": "Иванович"},
+      {"StudentCode": 2, "LastName": "Петров", "FirstName": "Петр", "Patronymic": "Петрович"}
+    ],
+    "Subjects": [
+      {"SubjectCode": 101, "Name": "Математика", "LectureHours": 30, "PracticeHours": 20},
+      {"SubjectCode": 102, "Name": "Физика", "LectureHours": 25, "PracticeHours": 15}
+    ],
+    "StudyPlans": [
+      {"StudentCode": 1, "SubjectCode": 101, "Grade": 4},
+      {"StudentCode": 1, "SubjectCode": 102, "Grade": 5},
+      {"StudentCode": 2, "SubjectCode": 101, "Grade": 3}
+    ]
+  }
+  
